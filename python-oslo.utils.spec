@@ -7,12 +7,12 @@
 
 Summary:	Oslo Utility library
 Name:		python-oslo.utils
-Version:	3.28.0
-Release:	2
+Version:	3.36.3
+Release:	1
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.utils/oslo.utils-%{version}.tar.gz
-# Source0-md5:	b83873af4fb28280997de3d397e4222b
+# Source0-md5:	f4d23e51547a37b2e54bb1623e6d2534
 URL:		https://pypi.python.org/pypi/oslo.utils
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
