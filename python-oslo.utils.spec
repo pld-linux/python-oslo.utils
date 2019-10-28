@@ -8,7 +8,7 @@
 Summary:	Oslo Utility library
 Name:		python-oslo.utils
 Version:	3.36.3
-Release:	1
+Release:	2
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.utils/oslo.utils-%{version}.tar.gz
